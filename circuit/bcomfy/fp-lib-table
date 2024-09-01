@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SSD1306")(type "KiCad")(uri "C:/Users/ramon/Downloads/KiCad-SSD1306-128x64-master/library/SSD1306.pretty")(options "")(descr ""))
+  (lib (name "KiCad-SSD1306_OLED-0.91-128x32-master")(type "KiCad")(uri "C:/Users/ramon/Downloads/KiCad-SSD1306_OLED-0.91-128x32-master")(options "")(descr ""))
+)

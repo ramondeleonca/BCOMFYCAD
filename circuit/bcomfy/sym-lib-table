@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "oled_screens")(type "KiCad")(uri "${KIPRJMOD}/oled_screens.kicad_sym")(options "")(descr ""))
+  (lib (name "gsm")(type "KiCad")(uri "${KIPRJMOD}/gsm.kicad_sym")(options "")(descr ""))
+)
